@@ -4,7 +4,7 @@
   "description": "* Escolher um local do computador para criar o projeto\r * Abrir o gitBash nessa pasta",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start":"nodemon src/server.js"
   },
   "keywords": [],
   "author": "",
